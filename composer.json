@@ -1,1 +1,1 @@
-{  "name": "vendor/hello-word1",  "repositories": [    {        "type": "vcs",        "url": "https://github.com/ocditimban/monolog1"    }  ],}
+{  "name": "vendor/hello-word1",  "repositories": [    {        "type": "vcs",        "url": "https://github.com/ocditimban/monolog1"    }  ]}
