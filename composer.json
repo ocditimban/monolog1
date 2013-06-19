@@ -1,1 +1,1 @@
-{  "name": "monolog1",  "repositories": [    {        "type": "vcs",        "url": "https://github.com/ocditimban/monolog1"    }  ]}
+{ "packages": {    "vendor/monolog1": {      "repositories": [        {            "type": "vcs",            "url": "https://github.com/ocditimban/monolog1"        }      ]    }  }}
